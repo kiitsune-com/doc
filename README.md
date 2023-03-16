@@ -2,6 +2,9 @@
 
 Hi, good day to you :)
 
+## About
+* [Use Case](./about/use_case.md)
+
 ## Guide
 * [Voucher](./guide/voucher.md)
 
