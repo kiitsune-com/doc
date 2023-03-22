@@ -4,7 +4,7 @@ Kiitsune Voucher (KV) is package of usage quota for Kiitsune.
 
 ## Redemption
 - KV can be redeemed within Kiitsune App, by anyone, using Rimo.
-- KV can be redeemed in bulk qty, with a max of 20 at a time.
+- Only a maximum of one KV can be redeemed every one minute.
 - One time activation code will be assigned to each KV upon redemption.
 - KV Expiry is default as 60 days from redemption. 1 Rimo is required for every additional 10 days, with a max of 300 additional days. Expiry is set upon redemption and cannot be changed.
 - 2 Rimo is required for redemption of each individual KV.

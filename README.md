@@ -3,7 +3,7 @@
 Hi, good day to you :)
 
 ## About
-* [Use Case](./about/use_case.md)
+* [Use Case](./about/use_case.html)
 
 ## Guide
 * [Voucher](./guide/voucher.md)

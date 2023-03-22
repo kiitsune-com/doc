@@ -1,6 +1,6 @@
 # Guide
 
-* [Voucher](voucher.md)
+* [Voucher](./voucher.md)
 
 ---
 
